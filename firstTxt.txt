@@ -4,3 +4,5 @@ Git練習
 rennsyu
 
 GIT commit
+
+git remove
